@@ -3,7 +3,7 @@
 
 int main (){
 
-printf("%s/n", '++++++++++');
+printf("%d/n", '++++++++++');
 
 return 0;
        
