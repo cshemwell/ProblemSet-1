@@ -3,9 +3,7 @@
 
 int main (){
 
-char *thing = '++++++++++';
-
-printf("%s/n, %s/n, %s/n, %s/n, %s/n", thing, thing, thing, thing, thing);
+printf("%s/n", '++++++++++');
 
 return 0;
        
