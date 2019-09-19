@@ -3,9 +3,9 @@
 
 int main (){
 
-char thing = '++++++++++';
+char *thing = '++++++++++';
 
-printf(%s """"", '++++++++++');
+printf(%s """"", thing);
 
 return 0;
 
