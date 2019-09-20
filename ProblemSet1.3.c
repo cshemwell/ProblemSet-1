@@ -6,7 +6,7 @@ int main (){
        char *thing = "++++++++++";
     
       // tried look
-       printf("%s %75s %75s %75s %75s\n", thing, thing, thing, thing, thing);
+       printf("%s %79s %79s %79s %79s\n", thing, thing, thing, thing, thing);
 
       
       return 0;
